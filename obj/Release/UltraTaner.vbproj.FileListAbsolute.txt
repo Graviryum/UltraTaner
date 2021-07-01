@@ -1,0 +1,16 @@
+C:\Users\batuh\source\repos\UltraTaner\bin\Release\UltraTaner.exe.config
+C:\Users\batuh\source\repos\UltraTaner\bin\Release\UltraTaner.exe
+C:\Users\batuh\source\repos\UltraTaner\bin\Release\UltraTaner.pdb
+C:\Users\batuh\source\repos\UltraTaner\bin\Release\UltraTaner.xml
+C:\Users\batuh\source\repos\UltraTaner\obj\Release\UltraTaner.vbprojAssemblyReference.cache
+C:\Users\batuh\source\repos\UltraTaner\obj\Release\Interop.ACTIVEXLib.dll
+C:\Users\batuh\source\repos\UltraTaner\obj\Release\Interop.VSTOEE100.dll
+C:\Users\batuh\source\repos\UltraTaner\obj\Release\UltraTaner.vbproj.ResolveComReference.cache
+C:\Users\batuh\source\repos\UltraTaner\obj\Release\UltraTaner.Form1.resources
+C:\Users\batuh\source\repos\UltraTaner\obj\Release\UltraTaner.Resources.resources
+C:\Users\batuh\source\repos\UltraTaner\obj\Release\UltraTaner.Detay.resources
+C:\Users\batuh\source\repos\UltraTaner\obj\Release\UltraTaner.vbproj.GenerateResource.cache
+C:\Users\batuh\source\repos\UltraTaner\obj\Release\UltraTaner.vbproj.CoreCompileInputs.cache
+C:\Users\batuh\source\repos\UltraTaner\obj\Release\UltraTaner.exe
+C:\Users\batuh\source\repos\UltraTaner\obj\Release\UltraTaner.xml
+C:\Users\batuh\source\repos\UltraTaner\obj\Release\UltraTaner.pdb
